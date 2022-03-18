@@ -1,5 +1,5 @@
 # Ramda-layout
-Ramda layout link:
+Ramda layout link: https://miss-kiparis.github.io/Ramda-layout/
 
 
     Верстка фиксированной ширины (1280 пикселей), весь контент расположен по центру экрана
